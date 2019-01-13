@@ -1,5 +1,5 @@
 # User's Information
-Getting The Client Information (Client's IP Address,Operating System,Browser Name,Device Type) in PHP
+Getting The Client Information (Client's IP Address,Operating System,Browser Name,Device Type) in PHP.
 Download the GeoLite2 City Database here https://dev.maxmind.com/geoip/geoip2/geolite2/ and include it to the directory provided.
 
 ## Initialize
